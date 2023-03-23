@@ -40,7 +40,7 @@ int main(void)
 
     printf("x=%d\n",y);
     printf("y++의 값=%d\n", y++);
-    printf("y=%d\n", y);
+    printf("y=%d\n\n", y);
 
 
     return 0;
