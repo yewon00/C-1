@@ -2,7 +2,8 @@
  - 4주차 복습
    
    https://codingadinga.tistory.com/11 <br>
-   ++i : 선위연산자 : 증가
+   ++i : 선위연산자 : 증가<br>
+   https://www.acmicpc.net/problem/2588 : 오늘 문제
    
  - 4주차 실습
 
