@@ -4,8 +4,9 @@
    ~~~ 
    
  - 4주차 실습
-   ```
-   #include <stdio.h>
+
+```
+#include <stdio.h>
 
 int main() {
     
