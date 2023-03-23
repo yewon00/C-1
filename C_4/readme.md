@@ -1,7 +1,8 @@
 # 4주차 C언어 실습
  - 4주차 복습
-   (복습 내용)
-   ~~~ 
+   
+   https://codingadinga.tistory.com/11 <br>
+   ++i : 선위연산자 : 증가
    
  - 4주차 실습
 
