@@ -2,6 +2,7 @@
  
  - 5주차 이론 내용 <br>
    1. if
+   2. 문제 : https://www.acmicpc.net/problem/1330
 
  - 5주차 실습 내용
 
@@ -80,3 +81,21 @@ int main(void)
 }
 ```
 ㄴ 작동 안 됨 ㅠ
+
+```
+#include <stdio.h>
+
+int main()
+{
+  int i;
+  char c;
+
+  scanf("%d", &i):
+  scanf(%c, &c);
+
+  printf("입력한 문자 :%c\n", c);
+
+  return 0;
+}
+```
+ㄴ replit error  
