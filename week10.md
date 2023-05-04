@@ -193,4 +193,27 @@ n에 4를 입력하면
 ```
 → 시험문제 출제 가능성 多
 
+<hr>
+
+```
+#include <stdio.h>
+
+int main(){
+    
+    int n=0;
+    double k = 10.5;
+    
+    n = k;
+    
+    printf("%%d : %d, %%lf : %lf", n, n);
+    
+    return 0;
+}
+```
+→ 쓰레기값 출력, 큰자료형 걸로 맞춰줘야 한다.
+
+![image](https://user-images.githubusercontent.com/128660870/236106282-1b49be94-5c3f-4c28-a65e-228ac9e4f28a.png)
+
+→ 결과
+
 
