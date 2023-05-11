@@ -121,7 +121,7 @@ int main( void )
     return 0;
 }
 ```
-ㄴ MAX는 상수로 수정할 수 없다.
+ㄴ MAX는 상수로 수정할 수 없다.<br>
 ㄴ time 값이 음수가 될 수 없기 때문에 'Unsigned' 필수
 
 <hr>
